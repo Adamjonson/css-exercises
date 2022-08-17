@@ -2,7 +2,19 @@
     background-color: rgb(255, 0, 179);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
+
 #even1 {
-    color: blue;   
+    color: blue;
     font-size: 36px;
 }
+
+.cooler {
+    font-size: 24px;
+}
+
+#even2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
