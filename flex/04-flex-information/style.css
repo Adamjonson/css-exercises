@@ -24,3 +24,8 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*Solution*/
+.title {
+  text-align: center;
+}
