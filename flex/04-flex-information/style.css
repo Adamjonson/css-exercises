@@ -36,6 +36,6 @@ img {
   gap: 52px;
 }
 .plant {
-  width: 200px;
+  max-width: 200px;
   text-align: center;
 }
