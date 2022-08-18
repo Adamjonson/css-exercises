@@ -53,3 +53,8 @@ ul {
   align-items: center;
   padding: 8px;
 }
+
+.links {
+  display: flex;
+  gap: 16px;
+}
