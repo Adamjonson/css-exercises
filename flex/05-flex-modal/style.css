@@ -79,3 +79,10 @@ button.cancel {
   display: flex;
   flex-direction: column;
 }
+.top {
+  display: flex;
+  flex-direction: row;
+}
+.top .close-button {
+  margin-left: auto;
+}
